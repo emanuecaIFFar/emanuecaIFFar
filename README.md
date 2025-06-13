@@ -30,8 +30,8 @@
 
 <h2>📎 Extras</h2>
 <ul>
-  <li>💬 GPT puro nesse redme</li>
-  <li>📚 nao desistir, tlvz</li>
+  <li>💬 apenas um redme</li>
+  <li>📚 nao desistir</li>
   <li>😄 aprendendo a mecher aq</li>
 </ul>
 
